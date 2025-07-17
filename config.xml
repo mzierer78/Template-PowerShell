@@ -2,6 +2,7 @@
 <!-- Attention, Activate a function should be checked First with Debug Options -->
 <Configuration>
     <debug>true</debug>
-    <LogFile Name="Default" />
+    <Form Size="350,350" Text="Template" />
+    <LogFile Name="Default" Path="C:\Windows\Logs" />
     <Setting1 Name="Value" Type="Value" />
 </Configuration>
